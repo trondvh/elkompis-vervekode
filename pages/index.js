@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Elkompis vervekode!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Elkompis vervekode" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Spar 500 kr på neste strømregning, bytt til Elkompis: <a href="https://elkompis.no/referral?invite=GFvVE">GFvVE</a> 
         </p>
       </main>
 
