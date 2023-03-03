@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Elkompis vervekode" />
         <p className="description">
-          Spar 500 kr på neste strømregning: <a href="https://elkompis.no/referral?invite=GFvVE">GFvVE</a> 
+          Spar 250 kr på neste strømregning: <a href="https://elkompis.no/referral?invite=GFvVE">GFvVE</a> 
         </p>
       </main>
 
